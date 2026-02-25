@@ -147,7 +147,7 @@ grid-tied-pv-system-simulink
 3. Open the Simulink model:
 
 ```
-model/grid_tied_pv_system.slx
+simulink-model/solarpv_grid_v1.slx
 ```
 
 4. Run the simulation.
